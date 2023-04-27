@@ -4,7 +4,7 @@ local nord = {}
 
 nord.normal = {
 	a = { fg = colors.nord1_gui, bg = colors.nord8_gui, gui = "bold" },
-	b = { fg = colors.nord5_gui, bg = colors.nord0_gui },
+	b = { fg = colors.nord5_gui, bg = colors.nord1_gui },
 	c = { fg = colors.nord4_gui, bg = colors.nord2_gui },
 }
 
